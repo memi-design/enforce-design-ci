@@ -1,12 +1,12 @@
 {
   "name": "@memi-design/skill-enforce-design-ci",
-  "version": "2.5.0",
+  "version": "2.7.9",
   "private": true,
   "description": "Deterministic pull-request checks for accessibility, design tokens, component structure, responsive behavior, and UI states.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sarveshsea/memi.git",
+    "url": "https://github.com/memi-design/memi.git",
     "directory": "skills/enforce-design-ci"
   },
   "files": [
